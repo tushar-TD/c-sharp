@@ -1,0 +1,15 @@
+D:\Learnings\c-sharp\ConsoleApp1\oop2\bin\Debug\net6.0\oop2.exe
+D:\Learnings\c-sharp\ConsoleApp1\oop2\bin\Debug\net6.0\oop2.deps.json
+D:\Learnings\c-sharp\ConsoleApp1\oop2\bin\Debug\net6.0\oop2.runtimeconfig.json
+D:\Learnings\c-sharp\ConsoleApp1\oop2\bin\Debug\net6.0\oop2.dll
+D:\Learnings\c-sharp\ConsoleApp1\oop2\bin\Debug\net6.0\oop2.pdb
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.csproj.AssemblyReference.cache
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.AssemblyInfoInputs.cache
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.AssemblyInfo.cs
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.csproj.CoreCompileInputs.cache
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.dll
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\refint\oop2.dll
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.pdb
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\oop2.genruntimeconfig.cache
+D:\Learnings\c-sharp\ConsoleApp1\oop2\obj\Debug\net6.0\ref\oop2.dll
